@@ -7,8 +7,7 @@ public class Comment {
 
     private Long id;
     private TargetObject targetObject;
-
-
-
-    
+    private String userId;
+    private String parentId;
+    private String title;
 }
