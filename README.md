@@ -5,3 +5,5 @@
    功效： 减少if else
 2. 运用DDD落地到代码进行分层架构
 3. Predicate来实现复杂查询，避免使用if else
+
+Issues记录开发过程中的技术问题解决方案
