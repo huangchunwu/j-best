@@ -4,3 +4,4 @@
 1. 结合Spring使用策略模式的应用
    功效： 减少if else
 2. 运用DDD落地到代码进行分层架构
+3. Predicate来实现复杂查询，避免使用if else
